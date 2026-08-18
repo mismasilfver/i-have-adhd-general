@@ -7,4 +7,6 @@ Only changes are changes to examples used by removing programming language and r
 ## How to use
 Use with claude.ai --> Settings --> Customize --> Skills --> Add --> Upload a skill
 
+Then when you start what probably is complex, long answer topic type /i-have-adhd and the skill loads.
+
 Thanks to [https://github.com/ayghri](https://github.com/ayghri) for the work.
